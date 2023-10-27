@@ -7,4 +7,4 @@ let timePokemon = [
     ["Bulbassaur", "M", 12]
 ]
 // vai imprimir: o pokemon pikachu é do sexo masculino e está no nível 1.
-console.log(" O pokemon " + timePokemon[1][0] + " é do sexo " + timePokemon[1][1] + " e está no nível" + timePokemon[1][2])
+console.log(" O pokemon " + timePokemon[1][0] + " é do sexo " + timePokemon[1][1] + " e está no nível" + " " + timePokemon[1][2])

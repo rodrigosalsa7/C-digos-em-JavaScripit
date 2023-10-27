@@ -1,3 +1,4 @@
+
 let pokemon = ["Pikachu", "Charmander", "Bulbassaur"]
 
 //remove o último elemento do array (lista)
@@ -11,3 +12,6 @@ console.log(pokemon)
 
 //para imprimir apenas o que deseja da lista
 console.log(pokemon[1])
+
+//para mostrar o tamanho da matriz
+console.log(pokemon.length)
