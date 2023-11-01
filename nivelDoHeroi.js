@@ -1,5 +1,5 @@
 let heroi = "Rodrigo"
-let xpHoeroi = 9500
+let xpHoeroi = 500
 let nivelHeroi = "Imortal"
 
 if (xpHoeroi === 0 <= 1000){
